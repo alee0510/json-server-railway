@@ -2,22 +2,10 @@
   "users": [
     {
       "id": "dhwyKiduiu1831HuxqoepqIx",
-      "email": "admin@gmail.com",
-      "role": "admin",
-      "username": "admin",
-      "password": "admin"
+      "email": "lollipop@gmail.com",
+      "role": "user",
+      "username": "lollipop",
+      "password": "lollipop"
     }
   ],
-  "user_tasks": [
-    {
-      "id": "dhwyKiduiu1831HuxqoepqIx",
-      "todos": [
-        {
-          "id": 1,
-          "title": "Learn React & Next.js",
-          "completed": false
-        }
-      ]
-    }
-  ]
 }
